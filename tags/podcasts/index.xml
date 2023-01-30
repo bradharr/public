@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>podcasts on Bradley Harr</title>
+    <link>https://www.bradleyharr.com/tags/podcasts/</link>
+    <description>Recent content in podcasts on Bradley Harr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Mar 2022 15:16:55 -0500</lastBuildDate><atom:link href="https://www.bradleyharr.com/tags/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jack Hibbs Podcast</title>
+      <link>https://www.bradleyharr.com/post/jack-hibbs-podcast/</link>
+      <pubDate>Mon, 28 Mar 2022 15:16:55 -0500</pubDate>
+      
+      <guid>https://www.bradleyharr.com/post/jack-hibbs-podcast/</guid>
+      <description>A new Podcast from Calvary Chapel Chino Hills Senior Pastor, Jack Hibbs.</description>
+    </item>
+    
+  </channel>
+</rss>

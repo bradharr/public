@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>entrees on Bradley Harr</title>
+    <link>https://www.bradleyharr.com/tags/entrees/</link>
+    <description>Recent content in entrees on Bradley Harr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Apr 2022 15:16:55 -0500</lastBuildDate><atom:link href="https://www.bradleyharr.com/tags/entrees/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hillbilly Pit Pie</title>
+      <link>https://www.bradleyharr.com/post/hillbilly-pit-pie/</link>
+      <pubDate>Sat, 02 Apr 2022 15:16:55 -0500</pubDate>
+      
+      <guid>https://www.bradleyharr.com/post/hillbilly-pit-pie/</guid>
+      <description>An amazing Pulled Pork Barbecue Pizza recipe that is a must try!</description>
+    </item>
+    
+    <item>
+      <title>Cheesy Chicken and Tomato</title>
+      <link>https://www.bradleyharr.com/post/cheesy-chicken-and-tomato/</link>
+      <pubDate>Fri, 01 Apr 2022 15:16:55 -0500</pubDate>
+      
+      <guid>https://www.bradleyharr.com/post/cheesy-chicken-and-tomato/</guid>
+      <description>Amazingly simple Cheesy Chicken and Tomato Dish!</description>
+    </item>
+    
+  </channel>
+</rss>
